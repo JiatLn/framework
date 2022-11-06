@@ -55,7 +55,7 @@
     "case-police": "^0.5.10",
     "changelogen": "^0.3.5",
     "crawler": "^1.3.0",
-    "eslint": "^8.26.0",
+    "eslint": "^8.27.0",
     "eslint-plugin-jsdoc": "^39.6.2",
     "execa": "^6.1.0",
     "expect-type": "^0.15.0",
